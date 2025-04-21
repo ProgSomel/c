@@ -1,6 +1,1 @@
-Before Swapping:
-A = 10
-B = 20
-After Swapping:
-A = 20
-B = 10
+60 50 40 30 20 10 
